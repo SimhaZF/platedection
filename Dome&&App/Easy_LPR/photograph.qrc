@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pictures/ldbg.png</file>
+        <file>pictures/clear_off.png</file>
+        <file>pictures/close_off.png</file>
+        <file>pictures/go_off.png</file>
+        <file>pictures/clear_on.png</file>
+        <file>pictures/close_on.png</file>
+        <file>pictures/go_on.png</file>
+        <file>pictures/bg1.png</file>
+        <file>pictures/sm_n.png</file>
+        <file>pictures/sm_s.png</file>
+        <file>pictures/back_off.png</file>
+        <file>pictures/back_on.png</file>
+        <file>pictures/bg1.jpg</file>
+        <file>pictures/bg4.jpg</file>
+        <file>pictures/back_off_s.png</file>
+        <file>pictures/back_on_s.png</file>
+        <file>pictures/start_off.png</file>
+        <file>pictures/start_on.png</file>
+        <file>pictures/l_off.png</file>
+        <file>pictures/l_on.png</file>
+        <file>pictures/r_off.png</file>
+        <file>pictures/r_on.png</file>
+        <file>pictures/image_off.png</file>
+        <file>pictures/image_on.png</file>
+    </qresource>
+</RCC>
